@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Riverpod Explorer'),
+        title: const Text('Riverpod Tutorial'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
